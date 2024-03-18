@@ -1,5 +1,3 @@
-package com.example.demo;
-
 import javafx.scene.image.Image;
 
 public class Student {

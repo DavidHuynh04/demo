@@ -15,7 +15,7 @@ import java.util.List;
 
 import javafx.scene.image.Image;
 
-public class HelloApplication extends Application {
+public class StuedentGUI extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         List<Student> students = new ArrayList<>();
